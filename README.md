@@ -53,6 +53,7 @@ Now available as a standalone Windows executable - no installation or dependenci
 
 🖼️ Screenshots 
 Main Interface 
+[img]https://i.ibb.co/n8N0S3wQ/Screenshot-22.png[/img]
 
   
 Clean, professional interface with file/folder management 
